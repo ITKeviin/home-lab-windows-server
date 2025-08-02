@@ -4,8 +4,6 @@ This project is a self-hosted Windows Server 2022 lab running on Proxmox, design
 
 ## 🧩 Network Overview
 
-![Network Diagram](network-diagram.png)
-
 ## 🔧 Lab Components
 
 - **Proxmox Host 1:**  
