@@ -11,7 +11,7 @@ This project is a self-hosted Windows Server 2022 lab running on Proxmox, design
 - **Physical PC 2:**  
   - VirtualBox running Windows 11 Enterprise client
 - **Peppermint Help Desk System**  
-  - Self-hosted on Ubuntu VM
+  - Self-hosted in a container on Proxmox
 
 ## 🧑‍💻 Features Implemented
 
